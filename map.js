@@ -32,7 +32,7 @@ const previousSelected = {
   type: undefined,
   id: undefined,
 };
-const serverPath = "http://localhost:5000";
+const serverPath = "https://ptudw-officer.onrender.com/";
 
 // Mapbox generation
 mapboxgl.accessToken =
